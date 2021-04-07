@@ -8,4 +8,4 @@
 - history 模式
 - beforeEach 生命周期函数
 
-博客地址：[手写 Vue-router 核心功能](http://www.yctang.club/detailed?id=85)
+博客地址：[手写 Vue-router 核心功能](http://www.114.117.209.134/detailed?id=85)
